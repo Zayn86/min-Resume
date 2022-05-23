@@ -715,16 +715,12 @@ a.KvTitleBe {
   }
   /* 大標題關於我 */
   .AboutTitle h1 {
-    font-size: 1.2rem;
+    font-size: 1.6rem;
     margin-bottom: 0.5rem;
-    text-align: left;
+    text-align: center;
   }
   .AboutTitle p {
-    font-size: 0.2rem;
-    letter-spacing: 0px;
-    line-height: 1.6;
-    font-weight: 400;
-    text-align: left;
+    display: none;
   }
   .Aboutlist {
     flex: 1;
