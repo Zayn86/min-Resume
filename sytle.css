@@ -381,6 +381,7 @@ footer {
 
     .Project_illustration>div {
         flex-direction: column;
+        align-items: center;
     }
 
     .Project_illustration img {
